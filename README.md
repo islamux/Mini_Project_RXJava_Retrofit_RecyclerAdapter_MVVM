@@ -1,5 +1,6 @@
 # Mini Project using RXJava, Retrofit, RecyclerAdapter, MVVM
 برنامج صغير باستخدام واجهة api مجانية لإرجاع البيانات باستخدام RXJava Retrofit RecyclerAdapter MVVM
+ 
  المصدر: https://github.com/Alinasser96.
 - تم شرح جميع الخطوات باستخدام comments 
 - تم شرح الحلول القديمة والحديثه (الإختصارات) ثم اعتماد الحلول المختصرة
