@@ -5,7 +5,8 @@
 - تم شرح الحلول القديمة والحديثه (الإختصارات) ثم اعتماد الحلول المختصرة
 - تم شرح الحل القديم (Outdated) و شرح الحل الجديد.
 - تم حل مشاكل الاعتماديات وتحديث المكتبات 
-- تم حل المشاكل الناتجة عن تحديث المكتبات 
+- تم حل المشاكل الناتجة عن تحديث المكتبات
+- 
 Mini program using free api to reurn a data using RXJava Retrofit RecyclerAdapter MVVM
 - From https://github.com/Alinasser96.
 
